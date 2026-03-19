@@ -73,7 +73,7 @@ The dApp API enables the dApp UI to send commands to the Gateway, which prepares
 * Wallet Gateway as secure orchestrator for communication and authentication across isolated trust zones.
 * Proposed transition from centralized IDP to self-sovereign authentication OIDC (Milestone 4).
 
-![Wallet Gateway Architecture](https://github.com/Stephan-Canton/canton-dev-fund/blob/main/proposals/Wallet_Gateway_Grant_Diagram.png?raw=true)
+![Wallet Gateway Architecture](https://github.com/Stephan-Canton/canton-dev-fund/blob/main/proposals/wallet-gateway-reference-implementation.png?raw=true)
 
 **Execution Workflow Details:** 
 > **Note:** Flow structure does not follow milestone structure. Some parts of the flow are not required for an MVP (Milestone 1) and are additional features developed later.
